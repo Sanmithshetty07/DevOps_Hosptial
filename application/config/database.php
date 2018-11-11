@@ -75,10 +75,10 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'localhost',
-	'username' => 'root',
-	'password' => 'root',
-	'database' => 'codeigniter',
+	'hostname' => '192.168.33.30',
+	'username' => 'enquiry_user',
+	'password' => 'enquiry_password',
+	'database' => 'enquiry_database',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,
